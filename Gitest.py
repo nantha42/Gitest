@@ -14,3 +14,4 @@ if __name__ == '__main__':
 
 	print("Modifed in develop branch")
 	print("Added  a line for develop")
+	print("Another release ")

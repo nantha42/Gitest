@@ -5,6 +5,8 @@ def greetings():
 def develop():
 	print("New develop function")
 
+def release():
+	print("new release function")
 if __name__ == '__main__':
 	greetings()
 	for i in range(10):

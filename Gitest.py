@@ -1,6 +1,9 @@
+
 def greetings():
 	print("Welcome to Think Engineering")
 
+def develop():
+	print("New develop function")
 
 if __name__ == '__main__':
 	greetings()
@@ -8,3 +11,4 @@ if __name__ == '__main__':
 		print("Thank you")
 
 	print("Modifed in develop branch")
+	print("Added  a line for develop")

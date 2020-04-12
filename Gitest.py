@@ -5,6 +5,10 @@ def develop():
 	print("Develop modified")
 	print("New develop function")
 	
+def develop1():
+	print("Develop modified")
+	print("New develop function")
+
 if __name__ == '__main__':
 	for i in range(10):
 		print("Thank you")

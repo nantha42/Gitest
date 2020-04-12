@@ -2,6 +2,7 @@ def greetings():
 	print("Welcome to Think Engineering")
 
 def develop():
+	print("Develop modified")
 	print("New develop function")
 	
 if __name__ == '__main__':
